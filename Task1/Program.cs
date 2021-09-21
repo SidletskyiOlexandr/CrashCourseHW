@@ -6,8 +6,8 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            string[] arr = { "abc", "acd" };
-            arr = 
+            string[] arr = { "bac", "abc", "cba"};
+            Array.Sort(arr);
         }
     }
 }
