@@ -5,8 +5,4 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Task10\Task10.csproj" />
-  </ItemGroup>
-
 </Project>
