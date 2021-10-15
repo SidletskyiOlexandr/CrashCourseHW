@@ -10,6 +10,7 @@ class GFG
         // of str2 is larger.
         if (str1.Length > str2.Length)
         {
+
             string t = str1;
             str1 = str2;
             str2 = t;
